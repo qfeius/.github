@@ -24,4 +24,16 @@ QfeiDoctor 是 智书诊断助手, 售后网络排查工具 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`contract-cli`](https://github.com/qfeius/contract-cli) — ContractCli
+
+contract-cli 是 智书合同 平台管理的命令行工具
+
+`Golang`
+
+</td>
+</tr>
+
 </table>
