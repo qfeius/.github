@@ -16,14 +16,17 @@ makecli 是 make 平台管理的命令行工具
 </td>
 <td width="50%" valign="top">
 
-### [`QfeiDoctor`](https://github.com/qfeius/QfeiDoctor) — QfeiDoctor
+### [`make-platform-skills`](https://github.com/qfeius/make-platform-skills) — make-platform-skills
 
-QfeiDoctor 是 智书诊断助手, 售后网络排查工具  
+make-platform-skills 是 make 平台管理的 skills
 
-`Tauri v2`
+`Skill`
 
 </td>
+
 </tr>
+
+
 <tr>
 <td width="50%" valign="top">
 
@@ -34,6 +37,15 @@ contract-cli 是 智书合同 平台管理的命令行工具
 `Golang`
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
+### [`QfeiDoctor`](https://github.com/qfeius/QfeiDoctor) — QfeiDoctor
+
+QfeiDoctor 是 智书诊断助手, 售后网络排查工具  
+
+`Tauri v2`
+
+</td>
+
+</tr>
 </table>
